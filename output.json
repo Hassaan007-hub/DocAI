@@ -1,0 +1,155 @@
+{
+  "doc_1.pdf": {
+    "class": "Invoice",
+    "invoice_number": "INV-2025-0041",
+    "issue_date": "2025-01-15",
+    "due_date": "2025-02-28",
+    "company": "ACME Corporation",
+    "total_amount": 4428.0
+  },
+  "doc_10.pdf": {
+    "class": "Resume",
+    "name": "Ahmed Raza",
+    "email": "ahmed.raza@email.com",
+    "phone": "+92-300-555-1234",
+    "experience_years": 6
+  },
+  "doc_11.pdf": {
+    "class": "Resume",
+    "name": "Emily Carter",
+    "email": "emily.carter@protonmail.com",
+    "phone": "(646) 555-0298",
+    "experience_years": 8
+  },
+  "doc_12.pdf": {
+    "class": "Resume",
+    "name": "Marcus Johnson",
+    "email": "marcus.johnson@gmail.com",
+    "phone": "312-555-0876",
+    "experience_years": 4
+  },
+  "doc_13.txt": {
+    "class": "Resume",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@outlook.com",
+    "phone": "+44-7911-555-042",
+    "experience_years": 9
+  },
+  "doc_14.txt": {
+    "class": "Resume",
+    "name": "Daniel Okonkwo",
+    "email": "d.okonkwo@techmail.io",
+    "phone": "+234-803-777-5561",
+    "experience_years": 3
+  },
+  "doc_15.txt": {
+    "class": "Resume",
+    "name": "Sofia Mendez",
+    "email": "sofia.mendez@devhub.net",
+    "phone": "+34-612-555-890",
+    "experience_years": 11
+  },
+  "doc_16.pdf": {
+    "class": "Unclassifiable"
+  },
+  "doc_17.txt": {
+    "class": "Unclassifiable"
+  },
+  "doc_18.pdf": {
+    "class": "Utility Bill",
+    "account_number": "01-44-2209-887-1",
+    "issue_date": "2025-01-05",
+    "due_date": "2025-01-20",
+    "usage_kwh": 617.0,
+    "amount_due": 11579.0
+  },
+  "doc_19.pdf": {
+    "class": "Utility Bill",
+    "account_number": "5544-221-88-3",
+    "issue_date": "2025-01-10",
+    "due_date": "2025-01-31",
+    "usage_kwh": 382.0,
+    "amount_due": 203.08
+  },
+  "doc_2.pdf": {
+    "class": "Invoice",
+    "invoice_number": "INV-8821",
+    "issue_date": "2025-03-02",
+    "due_date": "2025-04-01",
+    "company": "TechSupply Ltd.",
+    "total_amount": 40470.0
+  },
+  "doc_20.pdf": {
+    "class": "Utility Bill",
+    "account_number": "BG-77001-44882",
+    "issue_date": "2025-01-04",
+    "due_date": "2025-01-18",
+    "usage_kwh": 437.0,
+    "amount_due": 164.71
+  },
+  "doc_21.txt": {
+    "class": "Utility Bill",
+    "account_number": "ACC-334-887-22",
+    "issue_date": "2025-02-03",
+    "due_date": "2025-02-17",
+    "usage_kwh": 529.0,
+    "amount_due": 178.4
+  },
+  "doc_22.txt": {
+    "class": "Utility Bill",
+    "account_number": "TXU-330-882-11",
+    "issue_date": "2025-03-01",
+    "due_date": "2025-03-22",
+    "usage_kwh": 741.0,
+    "amount_due": 234.6
+  },
+  "doc_23.txt": {
+    "class": "Utility Bill",
+    "account_number": "GAS-NW-556-003",
+    "issue_date": "2025-02-14",
+    "due_date": "2025-03-05",
+    "usage_kwh": 298.0,
+    "amount_due": 98.35
+  },
+  "doc_3.pdf": {
+    "class": "Invoice",
+    "invoice_number": "INV-SM-109",
+    "issue_date": "2025-01-28",
+    "due_date": "2025-03-10",
+    "company": "Sarah Mitchell Design Studio",
+    "total_amount": 3350.0
+  },
+  "doc_4.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-NP-3390",
+    "issue_date": "2025-02-20",
+    "due_date": "2025-03-06",
+    "company": "NovaPrint Solutions",
+    "total_amount": 1434.0
+  },
+  "doc_5.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-ZD-0087",
+    "issue_date": "2025-03-12",
+    "due_date": "2025-04-12",
+    "company": "Zenith Digital Agency",
+    "total_amount": 7850.0
+  },
+  "doc_6.txt": {
+    "class": "Invoice",
+    "invoice_number": "INV-BV-0055",
+    "issue_date": "2025-04-07",
+    "due_date": "2025-05-07",
+    "company": "BlueSky Ventures Inc.",
+    "total_amount": 12300.0
+  },
+  "doc_7.pdf": {
+    "class": "Other"
+  },
+  "doc_8.pdf": {
+    "class": "Other"
+  },
+  "doc_9.txt": {
+    "class": "Other"
+  }
+}

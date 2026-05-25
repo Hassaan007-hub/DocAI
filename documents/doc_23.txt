@@ -1,0 +1,32 @@
+NORTHERN GAS NETWORKS
+GAS BILL
+============================================================
+
+Account Number   : GAS-NW-556-003
+Consumer Name    : Fiona MacDonald
+Address          : 7 Thistle Terrace, Edinburgh EH3 9QQ
+
+------------------------------------------------------------
+BILLING PERIOD   : January 2025
+Issue Date       : February 14, 2025
+Due Date         : March 5, 2025
+------------------------------------------------------------
+
+CONSUMPTION DETAILS:
+Previous Reading : 7,110 Units
+Current Reading  : 7,408 Units
+Units Consumed   : 298 kWh
+
+CHARGES BREAKDOWN:
+  Gas Commodity (298 kWh × 7.20p)                £21.46
+  Standing Charge (31 days × 28p)                 £8.68
+  Transportation Levy                             £4.50
+  Meter Reading Service                           £2.80
+  Carbon Tax Levy                                 £3.90
+  VAT (5%)                                        £2.07
+  Direct Debit Discount                          -£5.06
+------------------------------------------------------------
+  AMOUNT DUE (Before Due Date)                   £98.35
+------------------------------------------------------------
+
+Contact: 0800 040 7766 | northerngasnetworks.co.uk

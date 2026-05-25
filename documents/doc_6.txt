@@ -1,0 +1,26 @@
+BlueSky Ventures Inc.
+900 Park Avenue, Suite 12, New York NY 10022
+
+INVOICE
+────────────────────────────────────────────────────────────
+Invoice Number : INV-BV-0055
+Invoice Date   : April 7, 2025
+Due Date       : May 7, 2025
+
+Bill To:
+  Meridian Technologies
+  77 Tech Boulevard, San Jose CA 95110
+────────────────────────────────────────────────────────────
+Description                               Qty  Unit Price        Amount
+────────────────────────────────────────────────────────────
+Cloud Infrastructure Consulting        80 hrs      $95.00     $7,600.00
+Security Audit & Report                     1   $3,200.00     $3,200.00
+Staff Training (2 sessions)                 2     $750.00     $1,500.00
+────────────────────────────────────────────────────────────
+                                                  Subtotal    $12,300.00
+                                              Tax (exempt)         $0.00
+                                                 TOTAL DUE    $12,300.00
+────────────────────────────────────────────────────────────
+
+Payment: Citibank | Acc: 9988776655 | Routing: 021000089
+Thank you for your business!

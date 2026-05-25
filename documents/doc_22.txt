@@ -1,0 +1,32 @@
+ONCOR / TXU ENERGY
+ELECTRICITY STATEMENT
+============================================================
+
+Account Number   : TXU-330-882-11
+Consumer Name    : Patricia Blythe
+Address          : 811 Oakwood Lane, Plano TX 75023
+
+------------------------------------------------------------
+BILLING PERIOD   : February 2025
+Issue Date       : March 1, 2025
+Due Date         : March 22, 2025
+------------------------------------------------------------
+
+CONSUMPTION DETAILS:
+Previous Reading : 31,005 Units
+Current Reading  : 31,746 Units
+Units Consumed   : 741 kWh
+
+CHARGES BREAKDOWN:
+  Energy Charge (741 kWh @ $0.13)                $96.33
+  Delivery Charge                                $55.20
+  Transmission Charge                            $30.10
+  Nuclear Decommission Fee                        $1.85
+  Renewable Energy Credit                        $12.50
+  State Tax (6.25%)                              $18.62
+  City Fee                                       $20.00
+------------------------------------------------------------
+  AMOUNT DUE (Before Due Date)                  $234.60
+------------------------------------------------------------
+
+Contact: 1-800-818-6132 | txu.com

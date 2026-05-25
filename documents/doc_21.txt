@@ -1,0 +1,32 @@
+RELIANT ENERGY — TEXAS
+MONTHLY ELECTRIC BILL
+============================================================
+
+Account Number   : ACC-334-887-22
+Consumer Name    : Carlos Nguyen
+Address          : 4512 Sunset Drive, Houston TX 77056
+
+------------------------------------------------------------
+BILLING PERIOD   : January 2025
+Issue Date       : February 3, 2025
+Due Date         : February 17, 2025
+------------------------------------------------------------
+
+CONSUMPTION DETAILS:
+Previous Reading : 22,410 Units
+Current Reading  : 22,939 Units
+Units Consumed   : 529 kWh
+
+CHARGES BREAKDOWN:
+  Energy Charge (529 kWh @ $0.11)                $58.19
+  TDU Delivery Charge                            $42.10
+  Base Charge                                     $9.95
+  Transmission Cost Recovery                     $18.30
+  State Sales Tax (8.25%)                        $10.60
+  Municipal Franchise Fee                         $5.26
+  Gross Receipts Reimbursement                    $2.00
+------------------------------------------------------------
+  AMOUNT DUE (Before Due Date)                  $178.40
+------------------------------------------------------------
+
+Contact: 1-866-222-7100 | reliant.com

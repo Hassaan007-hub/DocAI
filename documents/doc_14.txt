@@ -1,0 +1,26 @@
+Daniel Okonkwo
+Lagos, Nigeria  |  d.okonkwo@techmail.io  |  +234-803-777-5561
+linkedin.com/in/danielokonkwo
+
+BACKEND ENGINEER
+────────────────────────────────────────────────────────────
+Backend Engineer with 3 years of experience building high-throughput APIs and distributed systems in Node.js and Go.
+
+EXPERIENCE
+────────────────────────────────────────────────────────────
+Backend Engineer — Paystack (Stripe), Lagos  [Sep 2022 – Present]
+  • Built payment processing APIs handling 2M+ daily transactions.
+  • Reduced p99 latency from 800ms to 120ms with caching layer.
+  • Designed webhook retry system with exponential backoff.
+
+Junior Developer — Andela Training, Lagos  [Jul 2021 – Aug 2022]
+  • Completed intensive software engineering bootcamp.
+  • Built 3 production projects used by 500+ users.
+
+EDUCATION
+────────────────────────────────────────────────────────────
+B.Eng. Computer Engineering — University of Lagos (2021)
+
+SKILLS
+────────────────────────────────────────────────────────────
+Node.js · Go · PostgreSQL · Redis · Kafka · Docker · AWS · REST · GraphQL

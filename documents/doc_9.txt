@@ -1,0 +1,45 @@
+NON-DISCLOSURE AGREEMENT (NDA)
+
+This Non-Disclosure Agreement ("Agreement") is made effective as of March 1, 2025,
+by and between:
+
+  Disclosing Party : Orion Technologies Plc
+                     22 Innovation Square, Cambridge CB2 1TN, UK
+
+  Receiving Party  : Vertex Analytics Ltd.
+                     9 Data Court, London EC1A 4JQ, UK
+
+────────────────────────────────────────────────────────────────────────────────
+
+1. CONFIDENTIAL INFORMATION
+   "Confidential Information" means any technical, commercial, or financial
+   data disclosed by Orion Technologies to Vertex Analytics in connection with
+   a potential partnership in AI-driven supply-chain analytics.
+
+2. OBLIGATIONS
+   The Receiving Party agrees to:
+   (a) Hold all Confidential Information in strict confidence.
+   (b) Not disclose it to any third party without prior written consent.
+   (c) Use it solely to evaluate the potential business collaboration.
+
+3. EXCLUSIONS
+   Obligations do not apply to information that:
+   (a) Is or becomes publicly known through no breach of this Agreement.
+   (b) Was already known to Vertex Analytics prior to disclosure.
+   (c) Is independently developed without use of Confidential Information.
+
+4. TERM
+   This Agreement shall remain in effect for two (2) years from the effective
+   date and may be extended by mutual written consent.
+
+5. GOVERNING LAW
+   This Agreement is governed by the laws of England and Wales.
+
+────────────────────────────────────────────────────────────────────────────────
+
+SIGNED:
+
+_______________________________        _______________________________
+Orion Technologies Plc                 Vertex Analytics Ltd.
+Signed: James Hargreaves, CEO          Signed: Mei Lin, Director
+Date  : March 1, 2025                  Date  : March 1, 2025

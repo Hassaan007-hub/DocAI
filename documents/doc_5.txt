@@ -1,0 +1,27 @@
+Zenith Digital Agency
+55 Innovation Drive, Austin TX 78702
+
+INVOICE
+────────────────────────────────────────────────────────────
+Invoice Number : INV-ZD-0087
+Invoice Date   : March 12, 2025
+Due Date       : April 12, 2025
+
+Bill To:
+  Cascade Retail Group
+  300 Commerce Plaza, Dallas TX 75201
+────────────────────────────────────────────────────────────
+Description                               Qty  Unit Price        Amount
+────────────────────────────────────────────────────────────
+SEO Strategy & Audit                        1   $2,500.00     $2,500.00
+PPC Campaign Management                  2 mo   $1,800.00     $3,600.00
+Landing Page Redesign                       1   $1,200.00     $1,200.00
+Analytics Dashboard Setup                   1     $550.00       $550.00
+────────────────────────────────────────────────────────────
+                                                  Subtotal     $7,850.00
+                                                  Tax (0%)         $0.00
+                                                 TOTAL DUE     $7,850.00
+────────────────────────────────────────────────────────────
+
+Payment: Wells Fargo | Acc: 4455667788
+Thank you for your business!

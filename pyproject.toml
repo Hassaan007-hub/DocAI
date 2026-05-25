@@ -1,0 +1,23 @@
+[project]
+name = "structure-extract-and-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu>=1.14.2",
+    "fastapi>=0.115.0",
+    "pdfminer-six>=20260107",
+    "pypdf>=6.12.1",
+    "python-multipart>=0.0.9",
+    "rank-bm25>=0.2.2",
+    "rich>=15.0.0",
+    "sentence-transformers>=5.5.1",
+    "uvicorn[standard]>=0.30.0",
+]
+
+[dependency-groups]
+dev = [
+    "httpx>=0.27.0",
+    "pytest>=8.0.0",
+]

@@ -1,0 +1,26 @@
+NovaPrint Solutions
+Unit 4, Industrial Estate, Manchester M12 6HT
+
+INVOICE
+────────────────────────────────────────────────────────────
+Invoice Number : INV-NP-3390
+Invoice Date   : February 20, 2025
+Due Date       : March 6, 2025
+
+Bill To:
+  Harrison & Webb Publishers
+  12 Fleet Street, London EC4A 2AB
+────────────────────────────────────────────────────────────
+Description                               Qty  Unit Price        Amount
+────────────────────────────────────────────────────────────
+A4 Brochure Printing (colour)           5,000       £0.18       £900.00
+Folding & Collating                     5,000       £0.05       £250.00
+Next-day Courier Delivery                   1      £45.00        £45.00
+────────────────────────────────────────────────────────────
+                                                  Subtotal     £1,195.00
+                                                 VAT (20%)       £239.00
+                                                 TOTAL DUE     £1,434.00
+────────────────────────────────────────────────────────────
+
+Payment: BACS: Sort 20-18-45 | Acc: 67891234
+Thank you for your business!

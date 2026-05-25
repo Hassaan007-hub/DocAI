@@ -1,0 +1,29 @@
+Sofia Mendez
+Barcelona, Spain  |  sofia.mendez@devhub.net  |  +34-612-555-890
+linkedin.com/in/sofiamendez-ml
+
+MACHINE LEARNING ENGINEER
+────────────────────────────────────────────────────────────
+Machine Learning Engineer with 11 years of experience designing and deploying production ML systems across e-commerce and autonomous systems domains.
+
+EXPERIENCE
+────────────────────────────────────────────────────────────
+Principal ML Engineer — Glovo, Barcelona  [2019 – Present]
+  • Led delivery ETA prediction model serving 8M+ daily requests.
+  • Reduced mean absolute error by 34% through feature engineering.
+  • Built MLOps platform adopted across 4 engineering teams.
+
+ML Engineer — Telefonica I+D, Madrid  [2015 – 2019]
+  • Developed NLP models for Spanish-language content moderation.
+  • Filed 2 patents in conversational AI.
+
+Data Scientist — BBVA Next Technologies  [2013 – 2015]
+  • Built churn prediction models for retail banking (AUC 0.87).
+
+EDUCATION
+────────────────────────────────────────────────────────────
+M.S. Artificial Intelligence — Universitat Politecnica de Catalunya (2013)
+
+SKILLS
+────────────────────────────────────────────────────────────
+Python · PyTorch · TensorFlow · Kubeflow · Spark · MLflow · Airflow · Scala
